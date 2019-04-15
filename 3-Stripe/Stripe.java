@@ -36,6 +36,7 @@ public class Stripe {
 
         Collections.sort(listaDeElementos);
 
+        teclado.close();
         return (listaDeElementos.get(listaDeElementos.size() - 1)) + 1;
 
     }
