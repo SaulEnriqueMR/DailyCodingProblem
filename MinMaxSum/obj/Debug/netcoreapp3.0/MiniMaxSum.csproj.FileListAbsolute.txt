@@ -1,0 +1,11 @@
+C:\Users\saulenriquemr\Desktop\MiniMaxSum\bin\Debug\netcoreapp3.0\MiniMaxSum.exe
+C:\Users\saulenriquemr\Desktop\MiniMaxSum\bin\Debug\netcoreapp3.0\MiniMaxSum.deps.json
+C:\Users\saulenriquemr\Desktop\MiniMaxSum\bin\Debug\netcoreapp3.0\MiniMaxSum.runtimeconfig.json
+C:\Users\saulenriquemr\Desktop\MiniMaxSum\bin\Debug\netcoreapp3.0\MiniMaxSum.runtimeconfig.dev.json
+C:\Users\saulenriquemr\Desktop\MiniMaxSum\bin\Debug\netcoreapp3.0\MiniMaxSum.dll
+C:\Users\saulenriquemr\Desktop\MiniMaxSum\bin\Debug\netcoreapp3.0\MiniMaxSum.pdb
+C:\Users\saulenriquemr\Desktop\MiniMaxSum\obj\Debug\netcoreapp3.0\MiniMaxSum.csprojAssemblyReference.cache
+C:\Users\saulenriquemr\Desktop\MiniMaxSum\obj\Debug\netcoreapp3.0\MiniMaxSum.AssemblyInfoInputs.cache
+C:\Users\saulenriquemr\Desktop\MiniMaxSum\obj\Debug\netcoreapp3.0\MiniMaxSum.AssemblyInfo.cs
+C:\Users\saulenriquemr\Desktop\MiniMaxSum\obj\Debug\netcoreapp3.0\MiniMaxSum.dll
+C:\Users\saulenriquemr\Desktop\MiniMaxSum\obj\Debug\netcoreapp3.0\MiniMaxSum.pdb
