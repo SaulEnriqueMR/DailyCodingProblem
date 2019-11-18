@@ -1,0 +1,11 @@
+C:\Users\saulenriquemr\Desktop\SockMerchant\bin\Debug\netcoreapp3.0\SockMerchant.exe
+C:\Users\saulenriquemr\Desktop\SockMerchant\bin\Debug\netcoreapp3.0\SockMerchant.deps.json
+C:\Users\saulenriquemr\Desktop\SockMerchant\bin\Debug\netcoreapp3.0\SockMerchant.runtimeconfig.json
+C:\Users\saulenriquemr\Desktop\SockMerchant\bin\Debug\netcoreapp3.0\SockMerchant.runtimeconfig.dev.json
+C:\Users\saulenriquemr\Desktop\SockMerchant\bin\Debug\netcoreapp3.0\SockMerchant.dll
+C:\Users\saulenriquemr\Desktop\SockMerchant\bin\Debug\netcoreapp3.0\SockMerchant.pdb
+C:\Users\saulenriquemr\Desktop\SockMerchant\obj\Debug\netcoreapp3.0\SockMerchant.csprojAssemblyReference.cache
+C:\Users\saulenriquemr\Desktop\SockMerchant\obj\Debug\netcoreapp3.0\SockMerchant.AssemblyInfoInputs.cache
+C:\Users\saulenriquemr\Desktop\SockMerchant\obj\Debug\netcoreapp3.0\SockMerchant.AssemblyInfo.cs
+C:\Users\saulenriquemr\Desktop\SockMerchant\obj\Debug\netcoreapp3.0\SockMerchant.dll
+C:\Users\saulenriquemr\Desktop\SockMerchant\obj\Debug\netcoreapp3.0\SockMerchant.pdb
