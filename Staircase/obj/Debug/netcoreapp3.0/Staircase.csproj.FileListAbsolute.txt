@@ -1,0 +1,11 @@
+C:\Users\saulenriquemr\Desktop\Staircase\bin\Debug\netcoreapp3.0\Staircase.exe
+C:\Users\saulenriquemr\Desktop\Staircase\bin\Debug\netcoreapp3.0\Staircase.deps.json
+C:\Users\saulenriquemr\Desktop\Staircase\bin\Debug\netcoreapp3.0\Staircase.runtimeconfig.json
+C:\Users\saulenriquemr\Desktop\Staircase\bin\Debug\netcoreapp3.0\Staircase.runtimeconfig.dev.json
+C:\Users\saulenriquemr\Desktop\Staircase\bin\Debug\netcoreapp3.0\Staircase.dll
+C:\Users\saulenriquemr\Desktop\Staircase\bin\Debug\netcoreapp3.0\Staircase.pdb
+C:\Users\saulenriquemr\Desktop\Staircase\obj\Debug\netcoreapp3.0\Staircase.csprojAssemblyReference.cache
+C:\Users\saulenriquemr\Desktop\Staircase\obj\Debug\netcoreapp3.0\Staircase.AssemblyInfoInputs.cache
+C:\Users\saulenriquemr\Desktop\Staircase\obj\Debug\netcoreapp3.0\Staircase.AssemblyInfo.cs
+C:\Users\saulenriquemr\Desktop\Staircase\obj\Debug\netcoreapp3.0\Staircase.dll
+C:\Users\saulenriquemr\Desktop\Staircase\obj\Debug\netcoreapp3.0\Staircase.pdb
